@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import Es6 from './R011_SpreadOperator'
+import Es6 from './R012_Class&Prototype'
 
 function App() {
   return (
