@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import Es6 from './R009_Es6'
+import Es6 from './R010_Variable'
 
 function App() {
   return (
