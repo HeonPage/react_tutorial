@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import State from './R025_SetState'
+import State from './R026_ForceUpdate'
 
 function App() {
   return (
