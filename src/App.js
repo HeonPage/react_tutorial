@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import Props from './R021_PropsRequired'
+import Props from './R022_PropsDefault'
 
 function App() {
   return (
