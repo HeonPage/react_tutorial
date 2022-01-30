@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import Es6 from './R015_Map'
+import Es6 from './R016_jquery'
 
 function App() {
   return (
