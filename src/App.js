@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import Es6 from './R012_Class&Prototype'
+import Es6 from './R013_ArrowFunction'
 
 function App() {
   return (
