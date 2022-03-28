@@ -10,7 +10,7 @@ class R026_ForceUpdate extends Component {
 
     StateChange = () => {
         this.state.StateString = "리액트"
-        this.forceUpdate();
+        this.forceUpdate(); //강제 새로고침
     }
     state = {}
     render() {
