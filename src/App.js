@@ -6,6 +6,8 @@ import R026_ForceUpdate from './R026_ForceUpdate';
 import R027_ComponentClass from './R027_ComponentClass';
 import R028_PureComponentClass from './R028_PureComponentClass';
 import R029_ShallowEqual from './R029_shallow-equal';
+import R030_FuctionalComponent from './R030_FuctionalComponent';
+import R031_Hook from './R031_Hook';
 // import Component from './R027_ComponentClass'
 
 function App() {
@@ -18,7 +20,9 @@ function App() {
       {/* <R026_ForceUpdate /> */}
       {/* <R027_ComponentClass /> */}
       {/* <R028_PureComponentClass /> */}
-      <R029_ShallowEqual />
+      {/* <R029_ShallowEqual /> */}
+      {/* <R030_FuctionalComponent contents="this is from app.js" /> */}
+      <R031_Hook />
     </div>
   )
 }
