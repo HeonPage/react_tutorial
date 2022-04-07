@@ -8,6 +8,16 @@ import R062_Axios_Post from './R062_Axios_Post';
 import R063_Callback from './R063_Callback';
 import R064_Promise from './R064_Promise';
 import R065_Promise_Catch from './R065_Promise_Catch';
+import R066_onClick from './R066_onClick';
+import R067_onChange from './R067_onChange';
+import R068_onMouseMove from './R068_onMouseMove';
+import R069_onMouseOver from './R069_onMouseOver';
+import R070_onMouseOut from './R070_onMouseOut';
+import R071_onKey from './R071_onKey';
+import R072_submit from './R072_submit';
+import R073_Ref from './R073_Ref';
+import R074_Currying from './R074_Currying';
+import R075_HOC from './R075_HOC';
 
 function App() {
   return (
@@ -20,7 +30,17 @@ function App() {
       {/* <R062_Axios_Post /> */}
       {/* <R063_Callback /> */}
       {/* <R064_Promise /> */}
-      <R065_Promise_Catch />
+      {/* <R065_Promise_Catch /> */}
+      {/* <R066_onClick /> */}
+      {/* <R067_onChange /> */}
+      {/* <R068_onMouseMove /> */}
+      {/* <R069_onMouseOver /> */}
+      {/* <R070_onMouseOut /> */}
+      {/* <R071_onKey /> */}
+      {/* <R072_submit /> */}
+      {/* <R073_Ref /> */}
+      {/* <R074_Currying /> */}
+      <R075_HOC name='React200' />
     </div>
   )
 }
