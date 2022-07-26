@@ -11,6 +11,7 @@ export default class R060_Fetch_Post extends Component {
         })
         const body = await res.json()
         alert(body.date)
+        console.log(body)
     }
     render() {
         return (
