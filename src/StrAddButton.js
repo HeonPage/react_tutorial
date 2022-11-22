@@ -24,5 +24,5 @@ let mapDispatchToProps = (dispatch, props) => {
 }
 
 StrAddButton = connect(null, mapDispatchToProps)(StrAddButton)
-
+//test
 export default StrAddButton
