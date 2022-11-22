@@ -18,6 +18,8 @@ import R072_submit from './R072_submit';
 import R073_Ref from './R073_Ref';
 import R074_Currying from './R074_Currying';
 import R075_HOC from './R075_HOC';
+import R076_ContextAPI from './R076_ContextAPI';
+import R077_ContextApi from './R077_ContextApi';
 
 function App() {
   return (
@@ -40,7 +42,9 @@ function App() {
       {/* <R072_submit /> */}
       {/* <R073_Ref /> */}
       {/* <R074_Currying /> */}
-      <R075_HOC name='React200' />
+      {/* <R075_HOC name='React200' /> */}
+      {/* <R076_ContextAPI /> */}
+      <R077_ContextApi />
     </div>
   )
 }
